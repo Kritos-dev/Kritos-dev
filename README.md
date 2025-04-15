@@ -28,10 +28,10 @@ Here are some ideas to get you started:
     />
   </a>
 
-- 🔭 I’m currently working like intern on [Alkemy](https://www.alkemy.com/)
-- 🌱 I’m currently learning Web code's and [Java](https://www.java.com/)
-- 🤔 I’m looking for help with [Java](https://www.java.com/)
-- ⚡ Fun fact: I love [Discord](https://www.discord.com/), [Markdown](https://www.markdownguide.org/) and [Sea of Thieves](https://seaofthieves.com/)
+- 🔭 I’m currently working like intern on [Alkemy](https://www.alkemy.com/);
+- 🌱 I’m currently learning Web code's and [Java](https://www.java.com/);
+- 🤔 I’m looking for help with [Java](https://www.java.com/);
+- ⚡ Fun fact: I love [Discord](https://www.discord.com/), [Markdown](https://www.markdownguide.org/) and [Sea of Thieves](https://seaofthieves.com/).
 <br/>
 
 ### Some of my projects:
