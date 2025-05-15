@@ -44,13 +44,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="Kritos-dev | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/80653293-004d-4084-b219-5050aac1ba48" />][linkedin]
 [<img align="left" alt="Kritos-dev | Discord" width="22px" src="https://github.com/user-attachments/assets/63174c1f-fd1b-4f7f-9b7d-1fd6a25ab48a" />][discord]
 </div>
-
-<br/>
-<br/>
 <br/>
 
 ---
-
 ### My top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritos-dev&layout=compact)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Kritos-dev&theme=highcontrast&show_icons=true&count_private=true) [STATS PROFILE]-->
