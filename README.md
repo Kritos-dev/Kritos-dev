@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Kritos-dev&theme=highcontrast&show_icons=true&count_private=true) [STATS PROFILE]-->
 
 
-[mailto]: mailto:frawolf@outlook.it
+[mailto]: mailto:tom.previtali@gmail.com
 [linkedin]: https://www.linkedin.com/in/f-tommaso-previtali/
 [discord]: https://discord.com/users/454672604268331042
