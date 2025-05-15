@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Languages:
+### My top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritos-dev&layout=compact)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Kritos-dev&theme=highcontrast&show_icons=true&count_private=true) [STATS PROFILE]-->
 
