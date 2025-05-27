@@ -40,18 +40,20 @@ Here are some ideas to get you started:
 <br/>
 
 ### How contact me:
-[<img align="left" alt="Kritos-dev | Mail" width="22px" style="fill: red;" src="https://github.com/user-attachments/assets/fe7ffe14-65eb-49ae-96e4-424b774c1316" />][mailto]
-[<img align="left" alt="Kritos-dev | LinkedIn" width="22px" src="https://github.com/user-attachments/assets/80653293-004d-4084-b219-5050aac1ba48" />][linkedin]
-[<img align="left" alt="Kritos-dev | Discord" width="22px" src="https://github.com/user-attachments/assets/63174c1f-fd1b-4f7f-9b7d-1fd6a25ab48a" />][discord]
+[<img align="left" alt="Kritos-dev | Mail" width="22px" target="_blank" src="https://github.com/user-attachments/assets/fe7ffe14-65eb-49ae-96e4-424b774c1316" />][mailto]
+[<img align="left" alt="Kritos-dev | LinkedIn" width="22px" target="_blank" src="https://github.com/user-attachments/assets/80653293-004d-4084-b219-5050aac1ba48" />][linkedin]
+[<img align="left" alt="Kritos-dev | Discord" width="22px" target="_blank" src="https://github.com/user-attachments/assets/63174c1f-fd1b-4f7f-9b7d-1fd6a25ab48a" />][discord]
+[<img align="left" alt="Kritos-dev | Codèdex" width="22px" target="_blank" src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" />][codedex]
 </div>
 <br/>
 
 ---
 ### My top languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritos-dev&layout=compact)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritos-dev&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Kritos-dev&theme=highcontrast&show_icons=true&count_private=true) [STATS PROFILE]-->
 
 
 [mailto]: mailto:tom.previtali@gmail.com
 [linkedin]: https://www.linkedin.com/in/f-tommaso-previtali/
 [discord]: https://discord.com/users/454672604268331042
+[codedex]: https://www.codedex.io/@Kritos
