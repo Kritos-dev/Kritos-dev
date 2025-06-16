@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ---
 ### My top languages:
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritos-dev&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Kritos-dev&layout=compact&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Kritos-dev&theme=highcontrast&show_icons=true&count_private=true) [STATS PROFILE]-->
 
 
